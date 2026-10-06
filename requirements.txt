@@ -1,0 +1,11 @@
+langchain_community
+python-dotenv
+langchain_groq
+langchain_core
+transformers
+torch
+langchain
+langchain-chroma
+langchain_groq
+langchain_huggingface
+sentence-transformers
